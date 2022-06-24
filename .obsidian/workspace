@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "4bf2121a5576b0a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "263965f0b23380e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Git snippets for differents shits.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "900dfb6a1c26a432",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dbe31794ebfb095",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "279c6c999a49aa11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a143b84ee5cef479",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a798fd855304880e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f60007538defbe45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d854dfc7a381a216",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git snippets for differents shits.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "263965f0b23380e7",
+  "lastOpenFiles": [
+    "Git snippets for differents shits.md"
+  ]
+}
