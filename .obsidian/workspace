@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git snippets for differents shits.md",
-            "mode": "source"
+            "file": "30 days of JS/2.Clock.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git snippets for differents shits.md",
+                "file": "30 days of JS/2.Clock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,10 @@
   },
   "active": "263965f0b23380e7",
   "lastOpenFiles": [
-    "Git snippets for differents shits.md"
+    "30 days of JS/2.Clock.md",
+    "30 days of JS/1.Drum kit.md",
+    "Git snippets for differents shits.md",
+    "UX Case Study.md",
+    "_templates/note_template.md"
   ]
 }

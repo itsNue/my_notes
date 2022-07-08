@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Yin and Yang"
+  "cssTheme": "Primary",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter"
 }
